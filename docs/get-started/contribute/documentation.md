@@ -1,9 +1,11 @@
-# Coolify Documentation
-This is the official repository for Coolify documentation, available at https://coolify.io/docs
+---
+title: "Contributing to Coolify Documentation"
+---
 
+# Coolify Docs Contribution Guide
 
-## Contribution Guide
 This guide outlines the process for contributing updates and fixes to our docs. Please follow the steps below to ensure a smooth and efficient workflow.
+
 
 ## 1. Repository Workflow
 - **Release Process:**  
